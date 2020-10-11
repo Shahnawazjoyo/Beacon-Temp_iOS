@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  WeatherBeacon
+
+  Created by Shah Nawaz on 10/10/2020.
+  Copyright © 2020 Shah Nawaz. All rights reserved.
+*/
+
+// Global Messages
+"SETTINGS"                              = "Settings";
+"CANCEL"                                = "Cancel";
+"DONE"                                  = "Done";
+"CONTINUE"                              = "Continue";
+"CONFIRM"                               = "Confirm";
+"YES"                                   = "Yes";
+"CLEAR_ALL"                             = "Clear All";
+
+// Home
+"HOME_TITLE"                            = "BeaconX";
+
+// Forecast
+"FORECAST_TITLE"                        = "Forecast";
+
+// No Data
+"NO_DATA_CONNECTION_TITLE"              = "Sorry, Connection Lost.";
+"NO_DATA_CONNECTION_MESSAGE"            = "No internet connection, please check your phone settings";
+"NO_DATA_CONNECTION_ACTION"             = "Try Again";
+"NO_DATA_WeatherBeacon_TITLE"                 = "Current Location WeatherBeacon";
+"NO_DATA_WeatherBeacon_MESSAGE"               = "Enable your location services to determine the WeatherBeacon";
+"NO_DATA_WeatherBeacon_ACTION"                = "Continue";
+
+"NO_DATA_WeatherBeaconS_RESULTS_TITLE"           = "Sorry. No results found.";
+"NO_DATA_WeatherBeaconS_RESULTS_MESSAGE"         = "Try refining your search criteria by changing city names.";
+"NO_DATA_WeatherBeaconS_RESULTS_ACTION"          = "Try Again";
+
+"NO_DATA_WeatherBeaconS_LIST_TITLE"           = "No Location found.";
+"NO_DATA_WeatherBeaconS_LIST_MESSAGE"         = "Pease allow location to get your city WeatherBeacon";
+"NO_DATA_WeatherBeaconS_LIST_ACTION"          = "Allow Location";
+
+
+"POPUP_CITY_NAME_TITLE"                 = "AC TEMP";
+"POPUP_CITY_NAME_MSG"                   = "Enter your AC Temprature";
+"POPUP_CITY_NAME_PLACEHOLDER"           = "AC Temprature";
+
+"POPUP_CITY_CLEAR_ALL_TITLE"                 = "WeatherBeacons";
+"POPUP_CITY_CLEAR_ALL_MSG"                   = "Are you sure you want to clear all WeatherBeacons?";
+
+// Generic Errors
+"ERROR_NO_CONNECTION"                   = "No internet connection, please check your phone settings";
+"ERROR_UNKNOWN"                         = "Unknown error occured, please try again";
+"ERROR_LOCATION_PERMISSION"             = "Location permission required";
+"ERROR_LOCATION_PERMISSION_MSG"         = "Turn on location services to Allow WeatherBeacon to determine your location";
+
